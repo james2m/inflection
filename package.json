@@ -1,0 +1,13 @@
+{
+  "name"              : "inflection",
+  "description"       : "Port of Rails ActiveSupport Inflection into JavaScript",
+  "version"           : "0.0.1",
+  "repository"        : "https://github.com/corejs/inflection",
+  "author"            : "Ernesto Méndez <github.com/derdesign>",
+  "license"           : "MIT",
+  "main"              : "src/inflection.js",
+  "engines"           : { "node": ">= 0.6.0" },
+  "devDependencies"     : {
+    "vows"              : ">= 0.6.0"
+  }
+}
