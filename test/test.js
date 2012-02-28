@@ -1,6 +1,6 @@
 
 var vows = require('vows'),
-    inflect = require('../src/inflection.js'),
+    inflect = require('../lib/inflect.js'),
     assert = require('assert');
 
 vows.describe('Inflection Tests').addBatch({
