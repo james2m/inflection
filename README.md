@@ -7,7 +7,7 @@ Based on [inflection-js](http://code.google.com/p/inflection-js/) by Ryan Schuft
 
 ## License
 
-Copyright (c) 2011 Ernesto Mendez (github.com/derdesign)<br/>
+Copyright (c) 2011 Ernesto Méndez ([github.com/derdesign](https://github.com/derdesign))<br/>
 Copyright (c) 2010 Ryan Schuft (ryan.schuft@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
