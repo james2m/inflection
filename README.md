@@ -1,12 +1,13 @@
 
 # Inflection
 
-Port of the functionality from Rails Active Support Inflection classes into JavaScript. 
+Port of the functionality from Rails Active Support Inflection classes into JavaScript.
+
 Based on [inflection-js](http://code.google.com/p/inflection-js/) by Ryan Schuft.
 
 ## License
 
-Copyright (c) 2011 Ernesto Mendez (github.com/derdesign)
+Copyright (c) 2011 Ernesto Mendez (github.com/derdesign)<br/>
 Copyright (c) 2010 Ryan Schuft (ryan.schuft@gmail.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
