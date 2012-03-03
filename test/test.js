@@ -20,6 +20,8 @@ vows.describe('Inflection Tests').addBatch({
   },
   
   "Inflect::camelize » renders a lower case underscored word into camel case": function() {
+    assert.equal(inflect.camelize('hello-world-how-are-you'), 'HelloWorldHowAreYou');
+    assert.equal(inflect.camelize('hello-world_how-are_you'), 'HelloWorldHowAreYou');
     assert.equal(inflect.camelize('hello_world_how_are_you'), 'HelloWorldHowAreYou');
   },
   
