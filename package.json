@@ -2,7 +2,7 @@
   "name"              : "inflection",
   "description"       : "Port of Rails ActiveSupport Inflection into JavaScript",
   "version"           : "0.0.2",
-  "repository"        : "https://github.com/corejs/inflection",
+  "repository"        : "https://github.com/derdesign/inflection",
   "author"            : "Ernesto Méndez <github.com/derdesign>",
   "license"           : "MIT",
   "main"              : "lib/inflect.js",

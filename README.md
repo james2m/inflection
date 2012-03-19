@@ -1,5 +1,5 @@
 
-# Inflection [![Build Status](https://secure.travis-ci.org/corejs/inflection.png)](http://travis-ci.org/corejs/inflection)
+# Inflection [![Build Status](https://secure.travis-ci.org/derdesign/inflection.png)](http://travis-ci.org/derdesign/inflection)
 
 Port of the functionality from Rails Active Support Inflection classes into JavaScript.
 
